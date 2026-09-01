@@ -1,0 +1,13 @@
+# Raw datasets
+data/raw/
+
+# Power BI temporary/backup files
+*.pbit
+*.bak
+
+# Power BI lock files
+~$*.pbix
+
+# OS files
+Thumbs.db
+.DS_Store
